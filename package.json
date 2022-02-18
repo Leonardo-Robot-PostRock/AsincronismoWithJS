@@ -8,8 +8,8 @@
     "callback:challenge": "node src/callback/challenge.js",
     "promise": "node src/promise/index.js",
     "promise:challenge": "node src/promise/challlenge.js",
-    "async": "node src/async/index.js",
-    "async:challenge": "node src/async/challenge.js"
+    "async": "src/async/index.js",
+    "async:challenge": "node src/promise/challenge.js"
   },
   "keywords": [
     "callbacks",
@@ -19,7 +19,6 @@
   "author": "Leonardo Puebla",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^3.1.1",
     "xml": "^1.0.1",
     "xmlhttprequest": "^1.8.0"
   }
