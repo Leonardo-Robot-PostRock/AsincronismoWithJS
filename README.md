@@ -1,2 +1,2 @@
 # AsincronismoWithJS
-- Peticiones a un API con JavaScript Vainilla
+- Peticiones a una API con JavaScript Vainilla
